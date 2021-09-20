@@ -1,0 +1,9 @@
+.img-redonda{
+	display: block;
+	margin: auto; /* el margin debe tener un valor */
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 3px solid #000;
+	box-shadow: 0 0 5px 5px #AAA; /* se debe declarar como PX cada uno de los 4 valores */
+}
